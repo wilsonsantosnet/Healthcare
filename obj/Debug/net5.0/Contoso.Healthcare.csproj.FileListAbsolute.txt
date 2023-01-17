@@ -1,0 +1,88 @@
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Cosmos.CRTCompat.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\appsettings.json
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Contoso.Healthcare.exe
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Contoso.Healthcare.deps.json
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Contoso.Healthcare.runtimeconfig.json
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Contoso.Healthcare.runtimeconfig.dev.json
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Contoso.Healthcare.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\ref\Contoso.Healthcare.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Contoso.Healthcare.pdb
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\Contoso.Healthcare.csproj.AssemblyReference.cache
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\Contoso.Healthcare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\Contoso.Healthcare.AssemblyInfoInputs.cache
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\Contoso.Healthcare.AssemblyInfo.cs
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\Contoso.Healthcare.csproj.CoreCompileInputs.cache
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\Contoso.Healthcare.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\Contoso.Healthcare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\staticwebassets\Contoso.Healthcare.StaticWebAssets.Manifest.cache
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\staticwebassets\Contoso.Healthcare.StaticWebAssets.xml
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\scopedcss\bundle\Contoso.Healthcare.styles.css
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\Contoso.Healthcare.RazorTargetAssemblyInfo.cache
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\Contoso.Healthcare.csproj.CopyComplete
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\Contoso.Healthcare.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\ref\Contoso.Healthcare.dll
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\Contoso.Healthcare.pdb
+C:\Users\cykreng\OneDrive - Microsoft\Desktop\Dev\ContosoHealthcareAppInnovation\Contoso.Healthcare\obj\Debug\net5.0\Contoso.Healthcare.genruntimeconfig.cache
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Cosmos.CRTCompat.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\appsettings.json
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Contoso.Healthcare.exe
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Contoso.Healthcare.deps.json
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Contoso.Healthcare.runtimeconfig.json
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Contoso.Healthcare.runtimeconfig.dev.json
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Contoso.Healthcare.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\ref\Contoso.Healthcare.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Contoso.Healthcare.pdb
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\Contoso.Healthcare.csproj.AssemblyReference.cache
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\Contoso.Healthcare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\Contoso.Healthcare.AssemblyInfoInputs.cache
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\Contoso.Healthcare.AssemblyInfo.cs
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\Contoso.Healthcare.csproj.CoreCompileInputs.cache
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\Contoso.Healthcare.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\Contoso.Healthcare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\staticwebassets\Contoso.Healthcare.StaticWebAssets.Manifest.cache
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\staticwebassets\Contoso.Healthcare.StaticWebAssets.xml
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\scopedcss\bundle\Contoso.Healthcare.styles.css
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\Contoso.Healthcare.RazorTargetAssemblyInfo.cache
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\Contoso.Healthcare.csproj.CopyComplete
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\Contoso.Healthcare.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\ref\Contoso.Healthcare.dll
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\Contoso.Healthcare.pdb
+C:\Users\wdossantos\OneDrive - Microsoft\Win App\sample-app\obj\Debug\net5.0\Contoso.Healthcare.genruntimeconfig.cache
